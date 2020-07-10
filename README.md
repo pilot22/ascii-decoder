@@ -1,4 +1,4 @@
-# ascii-decoder README
+# ascii-decoder
 
 Ascii decoder is an universal ascii string decoder which is still WIP.
 Just highlight the string that you want to decode or all the file, and the popup will be displayed in the right corner !
