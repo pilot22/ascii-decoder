@@ -15,14 +15,6 @@
 		"*"
 	],
 	"main": "./extension.js",
-	"contributes": {
-		"commands": [
-			{
-				"command": "ascii-decoder.helloWorld",
-				"title": "Hello World"
-			}
-		]
-	},
 	"scripts": {
 		"lint": "eslint .",
 		"pretest": "npm run lint",
